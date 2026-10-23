@@ -47,7 +47,20 @@ Wireshark displays the Ethernet header, IPv4 header, and ICMP message details. I
 A successful reply indicates that the destination responded to the request, but it does not prove that every service on the destination is reachable.
 
 ## 6. Evidence
-Wireshark ICMP Packet Capture
+1.ICMP Traffic Capture
+
+
+
+
+2..IPv4 Packet Details
+
+
+
+
+
+3.ICMP Message Details
+
+
 
 
 
