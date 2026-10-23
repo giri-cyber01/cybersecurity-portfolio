@@ -49,7 +49,7 @@ A successful reply indicates that the destination responded to the request, but 
 ## 6. Evidence
 1.ICMP Traffic Capture
 
-
+01-networking/wireshark-icmp-analysis/images/ICMP capture.png
 
 
 2..IPv4 Packet Details
