@@ -48,13 +48,7 @@ A successful reply indicates that the destination responded to the request, but 
 
 ## 6. Evidence
 
-Add screenshots showing:
 
-- The Wireshark capture with the `icmp` display filter.
-- The selected Echo Request and its packet details.
-- The corresponding Echo Reply, if received.
-
-Store verified screenshots in this lab's `images/` directory.
 
 ## 7. What I Learned
 
